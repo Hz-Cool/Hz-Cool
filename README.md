@@ -38,3 +38,4 @@
 ![Hz-Cool's github stats](https://github-readme-stats.vercel.app/api?username=Hz-Cool&show_icons=true)
 
 
+# blog
