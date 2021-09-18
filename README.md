@@ -1,8 +1,8 @@
 ## Hi there 
 
 - 📫 How to reach me: [123456@qq.com](mailto:123456@qq.com)
+- 🌏 Website: [Blog](https://hz-cool.github.io/blog/)
 - 🌏 Website: [Hz-Cool.github.io/Notes/](https://hz-cool.github.io/Notes/)
-
 
 ## Languages and Tools
 
