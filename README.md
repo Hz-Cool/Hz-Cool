@@ -39,4 +39,6 @@
 
 
 # blog
-# blog
+
+https://hz-cool.github.io/blog/
+
