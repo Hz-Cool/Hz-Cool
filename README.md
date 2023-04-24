@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Hz-Cool-Blog/count.svg)
-
 ## Hi there 
 
 - 📫 How to reach me: [123456@qq.com](mailto:123456@qq.com)
@@ -43,4 +41,7 @@
 # blog
 
 https://hz-cool.github.io/blog/
+
+
+![Visitor Count](https://profile-counter.glitch.me/Hz-Cool-Blog/count.svg)
 
